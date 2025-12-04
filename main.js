@@ -1,4 +1,4 @@
-const workerURL = "https://zcp.mnxsv69789.workers.dev"; // Cloudflare Worker URL
+const workerURL = "https://zpc-proxy.mnxsv69789.workers.dev"; // Cloudflare Worker URL
 const urlInput = document.getElementById("urlInput");
 const goBtn = document.getElementById("goBtn");
 const reloadBtn = document.getElementById("reloadBtn");
